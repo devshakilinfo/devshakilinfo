@@ -55,8 +55,8 @@ class ShakılAhamed {
 - Collaborated with UI/UX designers to build responsive, cross-platform mobile solutions
 - Optimized app performance and code reusability using best Flutter practices
 
-### Software Engineer (Intern) — **Software Arena Ltd**
-`Sep 2024 – Dec 2024` · Dhaka, Bangladesh
+### Software Engineer — **Software Arena Ltd**
+`June 2024 – Dec 2024` · Dhaka, Bangladesh
 
 - Assisted in developing ERP and association apps to optimize workflow and user engagement
 - Worked with RESTful APIs, Firebase, and Flutter widgets for efficient data handling
